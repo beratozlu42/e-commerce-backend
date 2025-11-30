@@ -24,8 +24,7 @@ router.get('/', (req, res) => {
     let filtered = products.filter(p =>
         p.product_name.toLowerCase().includes(search) ||
         p.category.toLowerCase().includes(search) ||
-        p.brand.toLowerCase().includes(search) ||
-        p.description.toLowerCase().includes(search)
+        p.brand.toLowerCase().includes(search)
     );
 
     const total = filtered.length;
@@ -42,5 +41,12 @@ router.get('/', (req, res) => {
         data: paginated
     });
 });
-
+router.get('/:id', (req, res) => {
+    const { id } = req.params;
+    const product = products.find(p => p.product_id === id);
+    if (!product) {
+        return res.status(404).json({ message: 'Product not found' });
+    }
+    res.json(product);
+});
 module.exports = router;
