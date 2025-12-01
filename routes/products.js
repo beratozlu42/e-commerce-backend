@@ -10,7 +10,7 @@ try {
     const jsonData = fs.readFileSync(dataPath, 'utf-8');
     products = JSON.parse(jsonData);
 } catch (err) {
-    console.error('JSON dosyası okunamadı:', err);
+    console.error('JSON can not readable:', err);
 }
 
 // GET /products?search=&page=&limit=

@@ -15,9 +15,9 @@ app.use(express.json());
 app.use('/products', productsRoute);
 
 app.get('/', (req, res) => {
-    res.send('E-commerce Backend çalışıyor 🚀');
+    res.send('Backend is running...');
 });
 
 app.listen(PORT, () => {
-    console.log(`Server çalışıyor: http://localhost:${PORT}`);
+    console.log(`Running on: http://localhost:${PORT}`);
 });
