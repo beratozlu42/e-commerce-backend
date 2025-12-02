@@ -43,8 +43,8 @@
         ],
         "image_url_list": [
             "https://sunjom.com.hk/wp-content/uploads/2025/04/Sunjom_Freepods_ANC_ENC_Headphones_NotTransparent.jpg",
-            "https://example.com/images/elk001_white_detail.jpg",
-            "https://example.com/images/elk001_box.jpg"
+            "https://www.sunjom.com/wp-content/uploads/2025/04/Sunjom_Freepods_ANC_ENC_Headphones_nottranparant_front2.jpg",
+            "https://www.sunjom.com/wp-content/uploads/2025/04/Sunjom_Freepods_ANC_ENC_Headphones_nottranparant_front.jpg"
         ],
         "meta_information": {
             "seo_title": "SoundWave ANC Wireless Headphones | Best Price",
@@ -117,8 +117,8 @@
         ],
         "image_url_list": [
             "https://png.pngtree.com/png-vector/20230902/ourmid/pngtree-white-t-shirt-mockup-realistic-t-shirt-png-image_9906363.png",
-            "https://example.com/images/gym002_detail_texture.jpg",
-            "https://example.com/images/gym002_model.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "Organic Cotton Men's T-Shirt | Slim Fit | EcoWear",
@@ -180,8 +180,8 @@
         ],
         "image_url_list": [
             "https://static.vecteezy.com/system/resources/thumbnails/049/216/922/small/modern-led-desk-lamp-with-adjustable-arm-free-png.png",
-            "https://example.com/images/hml003_app_screen.jpg",
-            "https://example.com/images/hml003_lighting.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "Smart LED Desk Lamp | Voice Control | HomeTech",
@@ -243,8 +243,8 @@
         ],
         "image_url_list": [
             "https://img.freepik.com/free-vector/butchers-knives-set-magnetic-holder-realistic-illustration_1284-59569.jpg?semt=ais_hybrid&w=740&q=80",
-            "https://example.com/images/kch004_chef_knife_close.jpg",
-            "https://example.com/images/kch004_block.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "Professional Chef Knife Set | 6 Piece | ChefPro",
@@ -306,8 +306,8 @@
         ],
         "image_url_list": [
             "https://png.pngtree.com/png-vector/20240731/ourmid/pngtree-a-power-bank-png-image_13308902.png",
-            "https://example.com/images/elk005_ports.jpg",
-            "https://example.com/images/elk005_with_phone.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "20000 mAh Power Bank | Fast Charging PD Supported | PowerGo",
@@ -368,9 +368,9 @@
             }
         ],
         "image_url_list": [
-            "https://example.com/images/hml006_set.jpg",
-            "https://example.com/images/hml006_single_mug.jpg",
-            "https://example.com/images/hml006_collection.jpg"
+            "https://img.freepik.com/premium-photo/corrugated-cardboard-open-box-white-background-generative-ai_849906-19563.jpg?semt=ais_hybrid&w=740&q=80",
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "Handmade Ceramic Coffee Mug Set | 4-Pack | ArtisanHome",
@@ -442,9 +442,9 @@
             }
         ],
         "image_url_list": [
-            "https://example.com/images/gym007_model_sports.jpg",
-            "https://example.com/images/gym007_fabric_detail.jpg",
-            "https://example.com/images/gym007_black.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "Women's High Waist Sports Leggings | ActiveFit | 20% Off",
@@ -505,9 +505,9 @@
             }
         ],
         "image_url_list": [
-            "https://example.com/images/ofs008_desk.jpg",
-            "https://example.com/images/ofs008_close_up.jpg",
-            "https://example.com/images/ofs008_in_use.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "Bamboo Desktop Organizer | Office Storage | GreenDesk",
@@ -526,1235 +526,721 @@
             "latest_review_summary": "Very useful and added a natural feel to my desk."
         }
     },
-    {
-        "product_id": "KCH009",
-        "product_name": "Cast Iron Grill Pan 28 cm",
-        "category": "Kitchenware",
-        "brand": "IronChef",
-        "price_info": {
-            "price": 650.00,
-            "currency": "TRY",
-            "discounted_price": 550.00,
-            "discount_rate": 15
-        },
-        "description": "Pre-seasoned cast iron grill pan, providing excellent heat retention, 28 cm. Bring the flavor of searing and grilling into your home.",
-        "stock_status": {
-            "stock_quantity": 60,
-            "status": "In Stock",
-            "delivery_time": "3-5 Business Days"
-        },
-        "features": [
-            {
-                "name": "Material",
-                "value": "Cast Iron"
-            },
-            {
-                "name": "Diameter",
-                "value": "28 cm"
-            },
-            {
-                "name": "Compatibility",
-                "value": "All hob types, including Induction"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Handle Type",
-                "options": [
-                    "Metal",
-                    "Silicone Coated"
-                ],
-                "default": "Metal"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/kch009_pan_top.jpg",
-            "https://example.com/images/kch009_searing.jpg",
-            "https://example.com/images/kch009_handle_detail.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Cast Iron Grill Pan 28 cm | IronChef | Perfect Searing",
-            "meta_description": "Grill your meat and vegetables perfectly with the IronChef cast iron pan. Long-lasting and healthy cooking.",
-            "keywords": [
-                "cast iron pan",
-                "grill",
-                "cast iron",
-                "grill pan",
-                "kitchen utensil"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.8,
-            "total_reviews": 110,
-            "latest_review_summary": "Really heavy and very high quality. The grill marks turn out great."
-        }
+  {
+    "product_id": "KCH009",
+    "product_name": "Cast Iron Grill Pan 28 cm",
+    "category": "Kitchenware",
+    "brand": "IronChef",
+    "price_info": {
+        "price": 650.00,
+        "currency": "TRY",
+        "discounted_price": 550.00,
+        "discount_rate": 15
     },
-    {
-        "product_id": "OFS010",
-        "product_name": "Professional Drawing Tablet Pen",
-        "category": "Office & Stationery",
-        "brand": "DigitalArt",
-        "price_info": {
-            "price": 750.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
-        "description": "Professional drawing tablet pen offering high precision and pressure sensitivity. Ideal for digital artists and designers.",
-        "stock_status": {
-            "stock_quantity": 110,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
-        "features": [
-            {
-                "name": "Pressure Sensitivity",
-                "value": "8192 Levels"
-            },
-            {
-                "name": "Tilt Recognition",
-                "value": "60 Degrees"
-            },
-            {
-                "name": "Compatibility",
-                "value": "DigitalArt Tablet Series"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Tip Type",
-                "options": [
-                    "Standard",
-                    "Felt"
-                ],
-                "default": "Standard"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/ofs010_pen_tablet.jpg",
-            "https://example.com/images/ofs010_tip_detail.jpg",
-            "https://example.com/images/ofs010_drawing.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Professional Drawing Tablet Pen | 8192 Pressure Levels",
-            "meta_description": "With 8192 levels of pressure sensitivity, the DigitalArt pen is designed for your most detailed digital drawings. The choice of professionals.",
-            "keywords": [
-                "drawing pen",
-                "stylus",
-                "drawing tablet",
-                "graphic design",
-                "digital art"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.7,
-            "total_reviews": 150,
-            "latest_review_summary": "It took my drawing to the next level, the reaction is very fast."
-        }
+    "description": "Pre-seasoned cast iron grill pan, providing excellent heat retention, 28 cm. Bring the flavor of searing and grilling into your home.",
+    "stock_status": {
+        "stock_quantity": 60,
+        "status": "In Stock",
+        "delivery_time": "3-5 Business Days"
     },
-    {
-        "product_id": "HBY011",
-        "product_name": "Premium Wooden Chess Set",
-        "category": "Hobby & Entertainment",
-        "brand": "RoyalGame",
-        "price_info": {
-            "price": 890.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
+    "features": [
+        {
+            "name": "Material",
+            "value": "Cast Iron"
         },
-        "description": "Premium chess set with hand-carved wooden pieces and a foldable solid wood board in a special box. Ideal for collectors and players.",
-        "stock_status": {
-            "stock_quantity": 30,
-            "status": "Limited Stock",
-            "delivery_time": "3-7 Business Days"
+        {
+            "name": "Diameter",
+            "value": "28 cm"
         },
-        "features": [
-            {
-                "name": "Material",
-                "value": "Solid Walnut Wood"
-            },
-            {
-                "name": "Board Size",
-                "value": "40x40 cm"
-            },
-            {
-                "name": "Production",
-                "value": "Handmade Wood Carving"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Wood Color",
-                "options": [
-                    "Dark Walnut",
-                    "Light Maple"
-                ],
-                "default": "Dark Walnut"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/hby011_set.jpg",
-            "https://example.com/images/hby011_figure_detail.jpg",
-            "https://example.com/images/hby011_playing.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Premium Wooden Chess Set | Hand-Carved Pieces | RoyalGame",
-            "meta_description": "Collector's hand-carved wooden chess set from RoyalGame. A unique piece for quality time and decoration.",
-            "keywords": [
-                "chess set",
-                "wooden",
-                "carved",
-                "solid wood",
-                "collection",
-                "hobby"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.9,
-            "total_reviews": 35,
-            "latest_review_summary": "Much higher quality and more elegant than expected. It made a wonderful gift."
+        {
+            "name": "Compatibility",
+            "value": "All hob types, including Induction"
         }
-    },
-    {
-        "product_id": "SPG012",
-        "product_name": "Professional Yoga Mat 6mm",
-        "category": "Sports & Outdoor",
-        "brand": "ZenFlow",
-        "price_info": {
-            "price": 299.00,
-            "currency": "TRY",
-            "discounted_price": 249.00,
-            "discount_rate": 17
-        },
-        "description": "Professional yoga mat with high-density, non-slip surface and 6mm thickness. Protects your joints with excellent cushioning. Carrying strap included.",
-        "stock_status": {
-            "stock_quantity": 180,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
-        "features": [
-            {
-                "name": "Thickness",
-                "value": "6 mm"
-            },
-            {
-                "name": "Material",
-                "value": "Eco-Friendly TPE"
-            },
-            {
-                "name": "Feature",
-                "value": "Non-Slip Surface, Easy to Clean"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Purple",
-                    "Turquoise",
-                    "Dark Green"
-                ],
-                "default": "Turquoise"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/spg012_unrolled.jpg",
-            "https://example.com/images/spg012_rolled.jpg",
-            "https://example.com/images/spg012_in_use.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Professional Yoga Mat 6mm | Non-Slip Surface | ZenFlow",
-            "meta_description": "Do yoga safely and comfortably with the ZenFlow 6mm TPE yoga mat. Full balance in your movements thanks to the non-slip structure.",
-            "keywords": [
-                "yoga mat",
-                "6mm",
-                "sports",
-                "non-slip",
-                "pilates",
-                "tpe"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.6,
-            "total_reviews": 190,
-            "latest_review_summary": "The grip is very good, my knees no longer hurt. The color is also vibrant."
+    ],
+    "variations": [
+        {
+            "name": "Handle Type",
+            "options": ["Metal", "Silicone Coated"],
+            "default": "Metal"
         }
+    ],
+    "image_url_list": [
+        "https://placehold.co/400",
+        "https://placehold.co/400",
+        "https://placehold.co/400"
+    ],
+    "meta_information": {
+        "seo_title": "Cast Iron Grill Pan 28 cm | IronChef | Perfect Searing",
+        "meta_description": "Grill your meat and vegetables perfectly with the IronChef cast iron pan. Long-lasting and healthy cooking.",
+        "keywords": ["cast iron pan", "grill", "cast iron", "grill pan", "kitchen utensil"]
     },
-    {
-        "product_id": "ELK013",
-        "product_name": "4K Ultra HD Streaming Media Player",
-        "category": "Electronics",
-        "brand": "StreamBox",
-        "price_info": {
-            "price": 1199.00,
-            "currency": "TRY",
-            "discounted_price": 999.00,
-            "discount_rate": 17
+    "review_and_rating": {
+        "average_rating": 4.8,
+        "total_reviews": 110,
+        "latest_review_summary": "Really heavy and very high quality. The grill marks turn out great."
+    }
+},
+{
+    "product_id": "OFS010",
+    "product_name": "Professional Drawing Tablet Pen",
+    "category": "Office & Stationery",
+    "brand": "DigitalArt",
+    "price_info": {
+        "price": 750.00,
+        "currency": "TRY",
+        "discounted_price": null,
+        "discount_rate": 0
+    },
+    "description": "Professional drawing tablet pen offering high precision and pressure sensitivity. Ideal for digital artists and designers.",
+    "stock_status": {
+        "stock_quantity": 110,
+        "status": "In Stock",
+        "delivery_time": "1-3 Business Days"
+    },
+    "features": [
+        {
+            "name": "Pressure Sensitivity",
+            "value": "8192 Levels"
         },
-        "description": "Smart media player supporting seamless 4K Ultra HD and HDR. Fast access to the most popular streaming services. Voice assistant integration.",
-        "stock_status": {
-            "stock_quantity": 90,
-            "status": "Limited Stock",
-            "delivery_time": "2-4 Business Days"
+        {
+            "name": "Tilt Recognition",
+            "value": "60 Degrees"
         },
-        "features": [
-            {
-                "name": "Resolution",
-                "value": "4K Ultra HD"
-            },
-            {
-                "name": "Connectivity",
-                "value": "Wi-Fi 6, Bluetooth"
-            },
-            {
-                "name": "Storage",
-                "value": "8 GB"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Storage",
-                "options": [
-                    "8 GB",
-                    "16 GB"
-                ],
-                "default": "8 GB"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/elk013_device.jpg",
-            "https://example.com/images/elk013_interface.jpg",
-            "https://example.com/images/elk013_remote.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "4K Ultra HD Streaming Media Player | Voice Control | StreamBox",
-            "meta_description": "Watch 4K content seamlessly with StreamBox. Fast processor and Wi-Fi 6 support. Now at a special price.",
-            "keywords": [
-                "media player",
-                "4k",
-                "streaming box",
-                "tv box",
-                "voice assistant"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.5,
-            "total_reviews": 140,
-            "latest_review_summary": "Very fast device, setup and use are very simple."
+        {
+            "name": "Compatibility",
+            "value": "DigitalArt Tablet Series"
         }
-    },
-    {
-        "product_id": "HML014",
-        "product_name": "Large Knit Pattern Laundry Basket",
-        "category": "Home & Living",
-        "brand": "TidyHome",
-        "price_info": {
-            "price": 210.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
-        "description": "Large capacity laundry basket made of durable plastic with a stylish knit pattern. Features side handles for easy carrying.",
-        "stock_status": {
-            "stock_quantity": 150,
-            "status": "In Stock",
-            "delivery_time": "2-4 Business Days"
-        },
-        "features": [
-            {
-                "name": "Material",
-                "value": "Durable Plastic"
-            },
-            {
-                "name": "Capacity",
-                "value": "60 Liters"
-            },
-            {
-                "name": "Design",
-                "value": "Knit Pattern"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Cream",
-                    "Anthracite Grey",
-                    "Blue"
-                ],
-                "default": "Cream"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/hml014_cream.jpg",
-            "https://example.com/images/hml014_grey_bathroom.jpg",
-            "https://example.com/images/hml014_pattern_detail.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Knit Pattern Laundry Basket | 60 Liters | TidyHome",
-            "meta_description": "Organize your laundry with TidyHome's stylish and large-capacity knit basket. Ideal for the bathroom and laundry room.",
-            "keywords": [
-                "laundry basket",
-                "hamper",
-                "knit pattern",
-                "bathroom organizer",
-                "plastic basket"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.4,
-            "total_reviews": 85,
-            "latest_review_summary": "Quality like in the picture and the size is exactly what I wanted."
+    ],
+    "variations": [
+        {
+            "name": "Tip Type",
+            "options": ["Standard", "Felt"],
+            "default": "Standard"
         }
+    ],
+    "image_url_list": [
+        "https://placehold.co/400",
+        "https://placehold.co/400",
+        "https://placehold.co/400"
+    ],
+    "meta_information": {
+        "seo_title": "Professional Drawing Tablet Pen | 8192 Pressure Levels",
+        "meta_description": "With 8192 levels of pressure sensitivity, the DigitalArt pen is designed for your most detailed digital drawings. The choice of professionals.",
+        "keywords": ["drawing pen", "stylus", "drawing tablet", "graphic design", "digital art"]
     },
-    {
-        "product_id": "GYM015",
-        "product_name": "Women's Leather Shoulder Bag",
-        "category": "Apparel & Accessories",
-        "brand": "LeatherCraft",
-        "price_info": {
-            "price": 1850.00,
-            "currency": "TRY",
-            "discounted_price": 1480.00,
-            "discount_rate": 20
+    "review_and_rating": {
+        "average_rating": 4.7,
+        "total_reviews": 150,
+        "latest_review_summary": "It took my drawing to the next level, the reaction is very fast."
+    }
+},
+{
+    "product_id": "HBY011",
+    "product_name": "Premium Wooden Chess Set",
+    "category": "Hobby & Entertainment",
+    "brand": "RoyalGame",
+    "price_info": {
+        "price": 890.00,
+        "currency": "TRY",
+        "discounted_price": null,
+        "discount_rate": 0
+    },
+    "description": "Premium chess set with hand-carved wooden pieces and a foldable solid wood board in a special box. Ideal for collectors and players.",
+    "stock_status": {
+        "stock_quantity": 30,
+        "status": "Limited Stock",
+        "delivery_time": "3-7 Business Days"
+    },
+    "features": [
+        {
+            "name": "Material",
+            "value": "Solid Walnut Wood"
         },
-        "description": "Elegant shoulder bag handcrafted from high-quality genuine leather. Large interior volume for daily use and an adjustable strap.",
-        "stock_status": {
-            "stock_quantity": 50,
-            "status": "In Stock",
-            "delivery_time": "4-6 Business Days (Special Cargo)"
+        {
+            "name": "Board Size",
+            "value": "40x40 cm"
         },
-        "features": [
-            {
-                "name": "Material",
-                "value": "Genuine Cowhide Leather"
-            },
-            {
-                "name": "Closure",
-                "value": "Zipper"
-            },
-            {
-                "name": "Dimensions",
-                "value": "30x25x10 cm (WxHxD)"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Tan",
-                    "Black",
-                    "Burgundy"
-                ],
-                "default": "Tan"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/gym015_model_carrying.jpg",
-            "https://example.com/images/gym015_leather_detail.jpg",
-            "https://example.com/images/gym015_interior.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Genuine Leather Women's Shoulder Bag | Tan Color | LeatherCraft",
-            "meta_description": "Complete your style with LeatherCraft's handmade, genuine leather shoulder bag. Large inner volume and durable construction for long-lasting use.",
-            "keywords": [
-                "leather bag",
-                "women's shoulder bag",
-                "genuine leather",
-                "accessory",
-                "handbag"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 5.0,
-            "total_reviews": 25,
-            "latest_review_summary": "The leather quality and craftsmanship are superb. Very elegant and practical."
+        {
+            "name": "Production",
+            "value": "Handmade Wood Carving"
         }
-    },
-    {
-        "product_id": "KCH016",
-        "product_name": "Electric Turkish Coffee Maker (4 Cups)",
-        "category": "Kitchenware",
-        "brand": "QuickBrew",
-        "price_info": {
-            "price": 499.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
-        "description": "Electric coffee maker with an anti-overflow sensor, offering the possibility of making Turkish coffee with plenty of foam with a single button. Up to 4 cups of coffee at a time.",
-        "stock_status": {
-            "stock_quantity": 130,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
-        "features": [
-            {
-                "name": "Capacity",
-                "value": "4 Turkish Coffee Cups"
-            },
-            {
-                "name": "Feature",
-                "value": "Anti-Overflow System"
-            },
-            {
-                "name": "Power",
-                "value": "500W"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Red",
-                    "Black",
-                    "White"
-                ],
-                "default": "Black"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/kch016_device.jpg",
-            "https://example.com/images/kch016_foamy_coffee.jpg",
-            "https://example.com/images/kch016_in_kitchen.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Electric Turkish Coffee Maker | Foamy Coffee | QuickBrew",
-            "meta_description": "Prepare rich and foamy Turkish coffee in a short time with the QuickBrew coffee maker. Safe system with anti-overflow protection.",
-            "keywords": [
-                "turkish coffee maker",
-                "electric cezve",
-                "coffee machine",
-                "kitchen appliances"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.7,
-            "total_reviews": 210,
-            "latest_review_summary": "Very practical and the coffee it makes is amazing. I definitely recommend it."
+    ],
+    "variations": [
+        {
+            "name": "Wood Color",
+            "options": ["Dark Walnut", "Light Maple"],
+            "default": "Dark Walnut"
         }
+    ],
+    "image_url_list": [
+        "https://placehold.co/400",
+        "https://placehold.co/400",
+        "https://placehold.co/400"
+    ],
+    "meta_information": {
+        "seo_title": "Premium Wooden Chess Set | Hand-Carved Pieces | RoyalGame",
+        "meta_description": "Collector's hand-carved wooden chess set from RoyalGame. A unique piece for quality time and decoration.",
+        "keywords": ["chess set", "wooden", "carved", "solid wood", "collection", "hobby"]
     },
-    {
-        "product_id": "ELK017",
-        "product_name": "Smart Bracelet and Fitness Tracker",
-        "category": "Electronics",
-        "brand": "LifeTrack",
-        "price_info": {
-            "price": 650.00,
-            "currency": "TRY",
-            "discounted_price": 585.00,
-            "discount_rate": 10
+    "review_and_rating": {
+        "average_rating": 4.9,
+        "total_reviews": 35,
+        "latest_review_summary": "Much higher quality and more elegant than expected. It made a wonderful gift."
+    }
+},
+{
+    "product_id": "SPG012",
+    "product_name": "Professional Yoga Mat 6mm",
+    "category": "Sports & Outdoor",
+    "brand": "ZenFlow",
+    "price_info": {
+        "price": 299.00,
+        "currency": "TRY",
+        "discounted_price": 249.00,
+        "discount_rate": 17
+    },
+    "description": "Professional yoga mat with high-density, non-slip surface and 6mm thickness. Protects your joints with excellent cushioning. Carrying strap included.",
+    "stock_status": {
+        "stock_quantity": 180,
+        "status": "In Stock",
+        "delivery_time": "1-3 Business Days"
+    },
+    "features": [
+        {
+            "name": "Thickness",
+            "value": "6 mm"
         },
-        "description": "Waterproof smart bracelet that tracks heart rate, sleep, and steps. 10-day battery life and color touchscreen.",
-        "stock_status": {
-            "stock_quantity": 170,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
+        {
+            "name": "Material",
+            "value": "Eco-Friendly TPE"
         },
-        "features": [
-            {
-                "name": "Measurements",
-                "value": "Heart Rate, Steps, Sleep, Calories"
-            },
-            {
-                "name": "Water Resistance",
-                "value": "5 ATM"
-            },
-            {
-                "name": "Screen",
-                "value": "Color AMOLED"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Strap Color",
-                "options": [
-                    "Black",
-                    "Pink",
-                    "Olive Green"
-                ],
-                "default": "Black"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/elk017_wrist.jpg",
-            "https://example.com/images/elk017_screen.jpg",
-            "https://example.com/images/elk017_sports.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Smart Bracelet | Heart Rate and Sleep Tracking | LifeTrack",
-            "meta_description": "Achieve your health and fitness goals with the LifeTrack smart bracelet. Waterproof design and long battery life.",
-            "keywords": [
-                "smart bracelet",
-                "fitness tracker",
-                "pedometer",
-                "heart rate",
-                "wearable technology"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.3,
-            "total_reviews": 310,
-            "latest_review_summary": "Performance is very good for its price. Especially the battery life is surprising."
+        {
+            "name": "Feature",
+            "value": "Non-Slip Surface, Easy to Clean"
         }
+    ],
+    "variations": [
+        {
+            "name": "Color",
+            "options": ["Purple", "Turquoise", "Dark Green"],
+            "default": "Turquoise"
+        }
+    ],
+    "image_url_list": [
+        "https://placehold.co/400",
+        "https://placehold.co/400",
+        "https://placehold.co/400"
+    ],
+    "meta_information": {
+        "seo_title": "Professional Yoga Mat 6mm | Non-Slip Surface | ZenFlow",
+        "meta_description": "Do yoga safely and comfortably with the ZenFlow 6mm TPE yoga mat. Full balance in your movements thanks to the non-slip structure.",
+        "keywords": ["yoga mat", "6mm", "sports", "non-slip", "pilates", "tpe"]
     },
+    "review_and_rating": {
+        "average_rating": 4.6,
+        "total_reviews": 190,
+        "latest_review_summary": "The grip is very good, my knees no longer hurt. The color is also vibrant."
+    }
+},
+{
+    "product_id": "ELK013",
+    "product_name": "4K Ultra HD Streaming Media Player",
+    "category": "Electronics",
+    "brand": "StreamBox",
+    "price_info": {
+        "price": 1199.00,
+        "currency": "TRY",
+        "discounted_price": 999.00,
+        "discount_rate": 17
+    },
+    "description": "Smart media player supporting seamless 4K Ultra HD and HDR. Fast access to the most popular streaming services. Voice assistant integration.",
+    "stock_status": {
+        "stock_quantity": 90,
+        "status": "Limited Stock",
+        "delivery_time": "2-4 Business Days"
+    },
+    "features": [
+        {
+            "name": "Resolution",
+            "value": "4K Ultra HD"
+        },
+        {
+            "name": "Connectivity",
+            "value": "Wi-Fi 6, Bluetooth"
+        },
+        {
+            "name": "Storage",
+            "value": "8 GB"
+        }
+    ],
+    "variations": [
+        {
+            "name": "Storage",
+            "options": ["8 GB", "16 GB"],
+            "default": "8 GB"
+        }
+    ],
+    "image_url_list": [
+        "https://placehold.co/400",
+        "https://placehold.co/400",
+        "https://placehold.co/400"
+    ],
+    "meta_information": {
+        "seo_title": "4K Ultra HD Streaming Media Player | Voice Control | StreamBox",
+        "meta_description": "Watch 4K content seamlessly with StreamBox. Fast processor and Wi-Fi 6 support. Now at a special price.",
+        "keywords": ["media player", "4k", "streaming box", "tv box", "voice assistant"]
+    },
+    "review_and_rating": {
+        "average_rating": 4.5,
+        "total_reviews": 140,
+        "latest_review_summary": "Very fast device, setup and use are very simple."
+    }
+},
+{
+    "product_id": "HML014",
+    "product_name": "Large Knit Pattern Laundry Basket",
+    "category": "Home & Living",
+    "brand": "TidyHome",
+    "price_info": {
+        "price": 210.00,
+        "currency": "TRY",
+        "discounted_price": null,
+        "discount_rate": 0
+    },
+    "description": "Large capacity laundry basket made of durable plastic with a stylish knit pattern. Features side handles for easy carrying.",
+    "stock_status": {
+        "stock_quantity": 150,
+        "status": "In Stock",
+        "delivery_time": "2-4 Business Days"
+    },
+    "features": [
+        {
+            "name": "Material",
+            "value": "Durable Plastic"
+        },
+        {
+            "name": "Capacity",
+            "value": "60 Liters"
+        },
+        {
+            "name": "Design",
+            "value": "Knit Pattern"
+        }
+    ],
+    "variations": [
+        {
+            "name": "Color",
+            "options": ["Cream", "Anthracite Grey", "Blue"],
+            "default": "Cream"
+        }
+    ],
+    "image_url_list": [
+        "https://placehold.co/400",
+        "https://placehold.co/400",
+        "https://placehold.co/400"
+    ],
+    "meta_information": {
+        "seo_title": "Knit Pattern Laundry Basket | 60 Liters | TidyHome",
+        "meta_description": "Organize your laundry with TidyHome's stylish and large-capacity knit basket. Ideal for the bathroom and laundry room.",
+        "keywords": ["laundry basket", "hamper", "knit pattern", "bathroom organizer", "plastic basket"]
+    },
+    "review_and_rating": {
+        "average_rating": 4.4,
+        "total_reviews": 85,
+        "latest_review_summary": "Quality like in the picture and the size is exactly what I wanted."
+    }
+},
+{
+    "product_id": "GYM015",
+    "product_name": "Women's Leather Shoulder Bag",
+    "category": "Apparel & Accessories",
+    "brand": "LeatherCraft",
+    "price_info": {
+        "price": 1850.00,
+        "currency": "TRY",
+        "discounted_price": 1480.00,
+        "discount_rate": 20
+    },
+    "description": "Elegant shoulder bag handcrafted from high-quality genuine leather. Large interior volume for daily use and an adjustable strap.",
+    "stock_status": {
+        "stock_quantity": 50,
+        "status": "In Stock",
+        "delivery_time": "4-6 Business Days (Special Cargo)"
+    },
+    "features": [
+        {
+            "name": "Material",
+            "value": "Genuine Cowhide Leather"
+        },
+        {
+            "name": "Closure",
+            "value": "Zipper"
+        },
+        {
+            "name": "Dimensions",
+            "value": "30x25x10 cm (WxHxD)"
+        }
+    ],
+    "variations": [
+        {
+            "name": "Color",
+            "options": ["Tan", "Black", "Burgundy"],
+            "default": "Tan"
+        }
+    ],
+    "image_url_list": [
+        "https://placehold.co/400",
+        "https://placehold.co/400",
+        "https://placehold.co/400"
+    ],
+    "meta_information": {
+        "seo_title": "Genuine Leather Women's Shoulder Bag | Tan Color | LeatherCraft",
+        "meta_description": "Complete your style with LeatherCraft's handmade, genuine leather shoulder bag. Large inner volume and durable construction for long-lasting use.",
+        "keywords": ["leather bag", "women's shoulder bag", "genuine leather", "accessory", "handbag"]
+    },
+    "review_and_rating": {
+        "average_rating": 5.0,
+        "total_reviews": 25,
+        "latest_review_summary": "The leather quality and craftsmanship are superb. Very elegant and practical."
+    }
+},
+{
+    "product_id": "KCH016",
+    "product_name": "Electric Turkish Coffee Maker (4 Cups)",
+    "category": "Kitchenware",
+    "brand": "QuickBrew",
+    "price_info": {
+        "price": 499.00,
+        "currency": "TRY",
+        "discounted_price": null,
+        "discount_rate": 0
+    },
+    "description": "Electric coffee maker with an anti-overflow sensor, offering the possibility of making Turkish coffee with plenty of foam with a single button. Up to 4 cups of coffee at a time.",
+    "stock_status": {
+        "stock_quantity": 130,
+        "status": "In Stock",
+        "delivery_time": "1-3 Business Days"
+    },
+    "features": [
+        {
+            "name": "Capacity",
+            "value": "4 Turkish Coffee Cups"
+        },
+        {
+            "name": "Feature",
+            "value": "Anti-Overflow System"
+        },
+        {
+            "name": "Power",
+            "value": "500W"
+        }
+    ],
+    "variations": [
+        {
+            "name": "Color",
+            "options": ["Red", "Black", "White"],
+            "default": "Black"
+        }
+    ],
+    "image_url_list": [
+        "https://placehold.co/400",
+        "https://placehold.co/400",
+        "https://placehold.co/400"
+    ],
+    "meta_information": {
+        "seo_title": "Electric Turkish Coffee Maker | Foamy Coffee | QuickBrew",
+        "meta_description": "Prepare rich and foamy Turkish coffee in a short time with the QuickBrew coffee maker. Safe system with anti-overflow protection.",
+        "keywords": ["turkish coffee maker", "electric cezve", "coffee machine", "kitchen appliances"]
+    },
+    "review_and_rating": {
+        "average_rating": 4.7,
+        "total_reviews": 210,
+        "latest_review_summary": "Very practical and the coffee it makes is amazing. I definitely recommend it."
+    }
+},
+{
+    "product_id": "ELK017",
+    "product_name": "Smart Bracelet and Fitness Tracker",
+    "category": "Electronics",
+    "brand": "LifeTrack",
+    "price_info": {
+        "price": 650.00,
+        "currency": "TRY",
+        "discounted_price": 585.00,
+        "discount_rate": 10
+    },
+    "description": "Waterproof smart bracelet that tracks heart rate, sleep, and steps. 10-day battery life and color touchscreen.",
+    "stock_status": {
+        "stock_quantity": 170,
+        "status": "In Stock",
+        "delivery_time": "1-3 Business Days"
+    },
+    "features": [
+        {
+            "name": "Measurements",
+            "value": "Heart Rate, Steps, Sleep, Calories"
+        },
+        {
+            "name": "Water Resistance",
+            "value": "5 ATM"
+        },
+        {
+            "name": "Screen",
+            "value": "Color AMOLED"
+        }
+    ],
+    "variations": [
+        {
+            "name": "Strap Color",
+            "options": ["Black", "Pink", "Olive Green"],
+            "default": "Black"
+        }
+    ],
+    "image_url_list": [
+        "https://placehold.co/400",
+        "https://placehold.co/400",
+        "https://placehold.co/400"
+    ],
+    "meta_information": {
+        "seo_title": "Smart Bracelet | Heart Rate and Sleep Tracking | LifeTrack",
+        "meta_description": "Achieve your health and fitness goals with the LifeTrack smart bracelet. Waterproof design and long battery life.",
+        "keywords": ["smart bracelet", "fitness tracker", "pedometer", "heart rate", "wearable technology"]
+    },
+    "review_and_rating": {
+        "average_rating": 4.3,
+        "total_reviews": 310,
+        "latest_review_summary": "Performance is very good for its price. Especially the battery life is surprising."
+    }
+  },
     {
         "product_id": "SPG018",
         "product_name": "Foldable Camping Chair - XL Size",
         "category": "Sports & Outdoor",
         "brand": "WildTrail",
-        "price_info": {
-            "price": 349.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
+        "price_info": { "price": 349.00, "currency": "TRY", "discounted_price": null, "discount_rate": 0 },
         "description": "XL size foldable camping chair offering extra comfort and durability. Includes cup holder and carrying bag. 150 kg load capacity.",
-        "stock_status": {
-            "stock_quantity": 110,
-            "status": "In Stock",
-            "delivery_time": "2-4 Business Days"
-        },
+        "stock_status": { "stock_quantity": 110, "status": "In Stock", "delivery_time": "2-4 Business Days" },
         "features": [
-            {
-                "name": "Material",
-                "value": "Durable Fabric and Steel Frame"
-            },
-            {
-                "name": "Load Capacity",
-                "value": "150 kg"
-            },
-            {
-                "name": "Extra Feature",
-                "value": "Cup Holder, Carrying Bag"
-            }
+            { "name": "Material", "value": "Durable Fabric and Steel Frame" },
+            { "name": "Load Capacity", "value": "150 kg" },
+            { "name": "Extra Feature", "value": "Cup Holder, Carrying Bag" }
         ],
-        "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Black",
-                    "Dark Green",
-                    "Camouflage"
-                ],
-                "default": "Dark Green"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/spg018_open.jpg",
-            "https://example.com/images/spg018_folded.jpg",
-            "https://example.com/images/spg018_camp.jpg"
-        ],
+        "variations": [ { "name": "Color", "options": ["Black","Dark Green","Camouflage"], "default": "Dark Green" } ],
+        "image_url_list": ["https://placehold.co/400","https://placehold.co/400","https://placehold.co/400"],
         "meta_information": {
             "seo_title": "XL Foldable Camping Chair | 150 kg Capacity | WildTrail",
             "meta_description": "Relax in comfort during your outdoor activities with the WildTrail XL size camping chair. Durable frame and practical folding feature.",
-            "keywords": [
-                "camping chair",
-                "foldable chair",
-                "outdoor",
-                "camping gear",
-                "picnic"
-            ]
+            "keywords": ["camping chair","foldable chair","outdoor","camping gear","picnic"]
         },
-        "review_and_rating": {
-            "average_rating": 4.5,
-            "total_reviews": 70,
-            "latest_review_summary": "Very sturdy and comfortable. Being wide is a big advantage."
-        }
+        "review_and_rating": { "average_rating": 4.5, "total_reviews": 70, "latest_review_summary": "Very sturdy and comfortable. Being wide is a big advantage." }
     },
     {
         "product_id": "HBY019",
         "product_name": "48 Color Professional Watercolor Set",
         "category": "Hobby & Entertainment",
         "brand": "ColorMaster",
-        "price_info": {
-            "price": 420.00,
-            "currency": "TRY",
-            "discounted_price": 350.00,
-            "discount_rate": 17
-        },
+        "price_info": { "price": 420.00, "currency": "TRY", "discounted_price": 350.00, "discount_rate": 17 },
         "description": "Professional watercolor set consisting of 48 different high-pigment, vibrant, and blendable colors. Ideal for art students and professionals.",
-        "stock_status": {
-            "stock_quantity": 100,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
+        "stock_status": { "stock_quantity": 100, "status": "In Stock", "delivery_time": "1-3 Business Days" },
         "features": [
-            {
-                "name": "Number of Colors",
-                "value": "48"
-            },
-            {
-                "name": "Feature",
-                "value": "High Pigmentation, Easy Blending"
-            },
-            {
-                "name": "Case",
-                "value": "Metal Travel Case"
-            }
+            { "name": "Number of Colors", "value": "48" },
+            { "name": "Feature", "value": "High Pigmentation, Easy Blending" },
+            { "name": "Case", "value": "Metal Travel Case" }
         ],
-        "variations": [
-            {
-                "name": "Extra Material",
-                "options": [
-                    "With Palette Brush Set",
-                    "Without Brush"
-                ],
-                "default": "With Palette Brush Set"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/hby019_case_open.jpg",
-            "https://example.com/images/hby019_colors.jpg",
-            "https://example.com/images/hby019_in_use.jpg"
-        ],
+        "variations": [ { "name": "Extra Material", "options": ["With Palette Brush Set","Without Brush"], "default": "With Palette Brush Set" } ],
+        "image_url_list": ["https://placehold.co/400","https://placehold.co/400","https://placehold.co/400"],
         "meta_information": {
             "seo_title": "48 Color Professional Watercolor Set | Metal Case | ColorMaster",
             "meta_description": "Achieve professional results in your artistic projects with ColorMaster's 48 vibrant color watercolor set. Now at a discounted price.",
-            "keywords": [
-                "watercolor",
-                "professional paint",
-                "art supplies",
-                "hobby",
-                "painting"
-            ]
+            "keywords": ["watercolor","professional paint","art supplies","hobby","painting"]
         },
-        "review_and_rating": {
-            "average_rating": 4.6,
-            "total_reviews": 55,
-            "latest_review_summary": "The colors are very vibrant and the quality is very good. I also liked the brush set."
-        }
+        "review_and_rating": { "average_rating": 4.6, "total_reviews": 55, "latest_review_summary": "The colors are very vibrant and the quality is very good. I also liked the brush set." }
     },
     {
         "product_id": "HML020",
         "product_name": "3D Geometric Pattern Rug 120x180 cm",
         "category": "Home & Living",
         "brand": "ModernDecor",
-        "price_info": {
-            "price": 1350.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
+        "price_info": { "price": 1350.00, "currency": "TRY", "discounted_price": null, "discount_rate": 0 },
         "description": "Soft-textured and durable rug with a 3D effect and modern geometric patterns. An ideal decoration piece for the living room, lounge, and bedroom.",
-        "stock_status": {
-            "stock_quantity": 40,
-            "status": "Limited Stock",
-            "delivery_time": "4-7 Business Days"
-        },
+        "stock_status": { "stock_quantity": 40, "status": "Limited Stock", "delivery_time": "4-7 Business Days" },
         "features": [
-            {
-                "name": "Size",
-                "value": "120 x 180 cm"
-            },
-            {
-                "name": "Material",
-                "value": "Polyester and Acrylic Blend"
-            },
-            {
-                "name": "Design",
-                "value": "3D Geometric Pattern"
-            }
+            { "name": "Size", "value": "120 x 180 cm" },
+            { "name": "Material", "value": "Polyester and Acrylic Blend" },
+            { "name": "Design", "value": "3D Geometric Pattern" }
         ],
-        "variations": [
-            {
-                "name": "Main Color",
-                "options": [
-                    "Grey-White",
-                    "Beige-Brown"
-                ],
-                "default": "Grey-White"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/hml020_living_room.jpg",
-            "https://example.com/images/hml020_pattern_close.jpg",
-            "https://example.com/images/hml020_overall_view.jpg"
-        ],
+        "variations": [ { "name": "Main Color", "options": ["Grey-White","Beige-Brown"], "default": "Grey-White" } ],
+        "image_url_list": ["https://placehold.co/400","https://placehold.co/400","https://placehold.co/400"],
         "meta_information": {
             "seo_title": "3D Geometric Rug 120x180 cm | Modern Decoration | ModernDecor",
             "meta_description": "Change the atmosphere of your home with the 3D effect geometric pattern rug from ModernDecor. Soft texture and easy-to-clean structure.",
-            "keywords": [
-                "rug",
-                "3d rug",
-                "geometric pattern",
-                "living room rug",
-                "home decoration"
-            ]
+            "keywords": ["rug","3d rug","geometric pattern","living room rug","home decoration"]
         },
-        "review_and_rating": {
-            "average_rating": 4.8,
-            "total_reviews": 30,
-            "latest_review_summary": "The rug is just like in the picture, it added a very modern flair to my room. The thickness is also ideal."
-        }
+        "review_and_rating": { "average_rating": 4.8, "total_reviews": 30, "latest_review_summary": "The rug is just like in the picture, it added a very modern flair to my room. The thickness is also ideal." }
     },
     {
         "product_id": "GYM021",
         "product_name": "Men's Classic Leather Wallet - RFID Protected",
         "category": "Apparel & Accessories",
         "brand": "SafeWallet",
-        "price_info": {
-            "price": 490.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
+        "price_info": { "price": 490.00, "currency": "TRY", "discounted_price": null, "discount_rate": 0 },
         "description": "Classic bi-fold men's wallet made from genuine leather. Features RFID (Radio Frequency Identification) protection technology for the security of your cards.",
-        "stock_status": {
-            "stock_quantity": 190,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
+        "stock_status": { "stock_quantity": 190, "status": "In Stock", "delivery_time": "1-3 Business Days" },
         "features": [
-            {
-                "name": "Material",
-                "value": "Genuine Leather"
-            },
-            {
-                "name": "Card Slots",
-                "value": "8 Slots"
-            },
-            {
-                "name": "Extra Feature",
-                "value": "RFID Protection"
-            }
+            { "name": "Material", "value": "Genuine Leather" },
+            { "name": "Card Slots", "value": "8 Slots" },
+            { "name": "Extra Feature", "value": "RFID Protection" }
         ],
-        "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Black",
-                    "Dark Brown"
-                ],
-                "default": "Dark Brown"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/gym021_closed.jpg",
-            "https://example.com/images/gym021_open_cards.jpg",
-            "https://example.com/images/gym021_box.jpg"
-        ],
+        "variations": [ { "name": "Color", "options": ["Black","Dark Brown"], "default": "Dark Brown" } ],
+        "image_url_list": ["https://placehold.co/400","https://placehold.co/400","https://placehold.co/400"],
         "meta_information": {
             "seo_title": "Men's Genuine Leather Wallet | RFID Protected | SafeWallet",
             "meta_description": "Stylish and secure leather wallet from SafeWallet. Your card information is safe with RFID protection. Perfect gift option.",
-            "keywords": [
-                "men's wallet",
-                "leather wallet",
-                "rfid protection",
-                "accessory",
-                "classic wallet"
-            ]
+            "keywords": ["men's wallet","leather wallet","rfid protection","accessory","classic wallet"]
         },
-        "review_and_rating": {
-            "average_rating": 4.6,
-            "total_reviews": 150,
-            "latest_review_summary": "The leather quality is very good, and the rfid protection gives peace of mind."
-        }
+        "review_and_rating": { "average_rating": 4.6, "total_reviews": 150, "latest_review_summary": "The leather quality is very good, and the rfid protection gives peace of mind." }
     },
     {
         "product_id": "ELK022",
         "product_name": "Ultra-Wide Curved Gaming Monitor 32 Inch",
         "category": "Electronics",
         "brand": "GameView",
-        "price_info": {
-            "price": 6500.00,
-            "currency": "TRY",
-            "discounted_price": 5999.00,
-            "discount_rate": 8
-        },
+        "price_info": { "price": 6500.00, "currency": "TRY", "discounted_price": 5999.00, "discount_rate": 8 },
         "description": "32-inch curved gaming monitor offering 2K resolution, 144Hz refresh rate, and fast response time. Fluid and immersive gaming experience.",
-        "stock_status": {
-            "stock_quantity": 35,
-            "status": "Limited Stock",
-            "delivery_time": "3-5 Business Days"
-        },
+        "stock_status": { "stock_quantity": 35, "status": "Limited Stock", "delivery_time": "3-5 Business Days" },
         "features": [
-            {
-                "name": "Size",
-                "value": "32 Inch Curved"
-            },
-            {
-                "name": "Resolution",
-                "value": "2560x1440 (2K)"
-            },
-            {
-                "name": "Refresh Rate",
-                "value": "144 Hz"
-            },
-            {
-                "name": "Response Time",
-                "value": "1ms MPRT"
-            }
+            { "name": "Size", "value": "32 Inch Curved" },
+            { "name": "Resolution", "value": "2560x1440 (2K)" },
+            { "name": "Refresh Rate", "value": "144 Hz" },
+            { "name": "Response Time", "value": "1ms MPRT" }
         ],
-        "variations": [
-            {
-                "name": "Screen Size",
-                "options": [
-                    "32 Inch",
-                    "27 Inch"
-                ],
-                "default": "32 Inch"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/elk022_desk.jpg",
-            "https://example.com/images/elk022_game_screen.jpg",
-            "https://example.com/images/elk022_back_lighting.jpg"
-        ],
+        "variations": [ { "name": "Screen Size", "options": ["32 Inch","27 Inch"], "default": "32 Inch" } ],
+        "image_url_list": ["https://placehold.co/400","https://placehold.co/400","https://placehold.co/400"],
         "meta_information": {
             "seo_title": "32 Inch Curved Gaming Monitor | 144Hz 1ms | GameView",
             "meta_description": "Gain an edge in games with the GameView curved 2K monitor. 144Hz fluidity and 1ms response time for a professional gaming experience.",
-            "keywords": [
-                "gaming monitor",
-                "curved monitor",
-                "144hz",
-                "2k monitor",
-                "gaming"
-            ]
+            "keywords": ["gaming monitor","curved monitor","144hz","2k monitor","gaming"]
         },
-        "review_and_rating": {
-            "average_rating": 4.9,
-            "total_reviews": 60,
-            "latest_review_summary": "The image quality is stunning, and the curved screen enhanced the gaming pleasure."
-        }
+        "review_and_rating": { "average_rating": 4.9, "total_reviews": 60, "latest_review_summary": "The image quality is stunning, and the curved screen enhanced the gaming pleasure." }
     },
     {
         "product_id": "OFS023",
         "product_name": "60 Piece Precision Screwdriver Set with Magnetic Tips",
         "category": "Office & Stationery / Tools",
         "brand": "FixTools",
-        "price_info": {
-            "price": 299.00,
-            "currency": "TRY",
-            "discounted_price": 250.00,
-            "discount_rate": 16
-        },
+        "price_info": { "price": 299.00, "currency": "TRY", "discounted_price": 250.00, "discount_rate": 16 },
         "description": "Professional screwdriver set with 60 different magnetic bits for sensitive repair work like phones, laptops, and glasses. Comes in a hard plastic storage case.",
-        "stock_status": {
-            "stock_quantity": 160,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
+        "stock_status": { "stock_quantity": 160, "status": "In Stock", "delivery_time": "1-3 Business Days" },
         "features": [
-            {
-                "name": "Number of Pieces",
-                "value": "60"
-            },
-            {
-                "name": "Tip Type",
-                "value": "Magnetic Precision Tips"
-            },
-            {
-                "name": "Usage Area",
-                "value": "Electronics Repair, Model Making"
-            }
+            { "name": "Number of Pieces", "value": "60" },
+            { "name": "Tip Type", "value": "Magnetic Precision Tips" },
+            { "name": "Usage Area", "value": "Electronics Repair, Model Making" }
         ],
-        "variations": [
-            {
-                "name": "Case Type",
-                "options": [
-                    "Standard",
-                    "Aluminum"
-                ],
-                "default": "Standard"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/ofs023_set_open.jpg",
-            "https://example.com/images/ofs023_screwdriver_detail.jpg",
-            "https://example.com/images/ofs023_repair.jpg"
-        ],
+        "variations": [ { "name": "Case Type", "options": ["Standard","Aluminum"], "default": "Standard" } ],
+        "image_url_list": ["https://placehold.co/400","https://placehold.co/400","https://placehold.co/400"],
         "meta_information": {
             "seo_title": "60 Piece Precision Magnetic Screwdriver Set | Electronics Repair",
             "meta_description": "Safely repair your electronic devices with FixTools' 60-piece magnetic tip precision screwdriver set. Ideal for professional and amateur use.",
-            "keywords": [
-                "screwdriver set",
-                "precision screwdriver",
-                "electronics repair",
-                "magnetic tip",
-                "hand tools"
-            ]
+            "keywords": ["screwdriver set","precision screwdriver","electronics repair","magnetic tip","hand tools"]
         },
-        "review_and_rating": {
-            "average_rating": 4.7,
-            "total_reviews": 95,
-            "latest_review_summary": "The variety of tips is very wide and the quality is good. The magnetic tips made my job much easier."
-        }
+        "review_and_rating": { "average_rating": 4.7, "total_reviews": 95, "latest_review_summary": "The variety of tips is very wide and the quality is good. The magnetic tips made my job much easier." }
     },
     {
         "product_id": "SPG024",
         "product_name": "Professional Trekking and Hiking Shoes (Men's)",
         "category": "Sports & Outdoor",
         "brand": "TrailMax",
-        "price_info": {
-            "price": 1500.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
+        "price_info": { "price": 1500.00, "currency": "TRY", "discounted_price": null, "discount_rate": 0 },
         "description": "Professional hiking shoes suitable for challenging terrain conditions, with a waterproof membrane, non-slip outsole, and ankle support.",
-        "stock_status": {
-            "stock_quantity": 120,
-            "status": "In Stock",
-            "delivery_time": "2-4 Business Days"
-        },
+        "stock_status": { "stock_quantity": 120, "status": "In Stock", "delivery_time": "2-4 Business Days" },
         "features": [
-            {
-                "name": "Waterproofing",
-                "value": "Yes (Membrane)"
-            },
-            {
-                "name": "Outsole",
-                "value": "Non-Slip Rubber"
-            },
-            {
-                "name": "Usage",
-                "value": "Trekking, Mountain Hiking"
-            }
+            { "name": "Waterproofing", "value": "Yes (Membrane)" },
+            { "name": "Outsole", "value": "Non-Slip Rubber" },
+            { "name": "Usage", "value": "Trekking, Mountain Hiking" }
         ],
         "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Brown",
-                    "Black-Orange"
-                ],
-                "default": "Black-Orange"
-            },
-            {
-                "name": "Size",
-                "options": [
-                    "40",
-                    "41",
-                    "42",
-                    "43",
-                    "44",
-                    "45"
-                ],
-                "default": "42"
-            }
+            { "name": "Color", "options": ["Brown","Black-Orange"], "default": "Black-Orange" },
+            { "name": "Size", "options": ["40","41","42","43","44","45"], "default": "42" }
         ],
-        "image_url_list": [
-            "https://example.com/images/spg024_shoe_side.jpg",
-            "https://example.com/images/spg024_sole_detail.jpg",
-            "https://example.com/images/spg024_terrain.jpg"
-        ],
+        "image_url_list": ["https://placehold.co/400","https://placehold.co/400","https://placehold.co/400"],
         "meta_information": {
             "seo_title": "Men's Waterproof Trekking Shoes | TrailMax Outdoor",
             "meta_description": "Your feet are safe in challenging nature conditions with TrailMax professional trekking shoes. Waterproof and non-slip sole.",
-            "keywords": [
-                "trekking shoes",
-                "hiking shoes",
-                "outdoor footwear",
-                "waterproof",
-                "camping"
-            ]
+            "keywords": ["trekking shoes","hiking shoes","outdoor footwear","waterproof","camping"]
         },
-        "review_and_rating": {
-            "average_rating": 4.6,
-            "total_reviews": 115,
-            "latest_review_summary": "The shoe is very comfortable and truly waterproof. Perfect for camping."
-        }
+        "review_and_rating": { "average_rating": 4.6, "total_reviews": 115, "latest_review_summary": "The shoe is very comfortable and truly waterproof. Perfect for camping." }
     },
     {
         "product_id": "ELK025",
         "product_name": "Smart Wi-Fi Coffee Maker with Grinder",
         "category": "Electronics & Kitchenware",
         "brand": "BrewMaster",
-        "price_info": {
-            "price": 2800.00,
-            "currency": "TRY",
-            "discounted_price": 2500.00,
-            "discount_rate": 11
-        },
+        "price_info": { "price": 2800.00, "currency": "TRY", "discounted_price": 2500.00, "discount_rate": 11 },
         "description": "Fully automatic coffee maker with integrated bean grinder and Wi-Fi connectivity. Schedule brewing via mobile app and adjust grind settings.",
-        "stock_status": {
-            "stock_quantity": 70,
-            "status": "In Stock",
-            "delivery_time": "3-5 Business Days"
-        },
+        "stock_status": { "stock_quantity": 70, "status": "In Stock", "delivery_time": "3-5 Business Days" },
         "features": [
-            {
-                "name": "Capacity",
-                "value": "10 Cups"
-            },
-            {
-                "name": "Connectivity",
-                "value": "Wi-Fi (App Control)"
-            },
-            {
-                "name": "Feature",
-                "value": "Integrated Grinder, Keep Warm Function"
-            }
+            { "name": "Capacity", "value": "10 Cups" },
+            { "name": "Connectivity", "value": "Wi-Fi (App Control)" },
+            { "name": "Feature", "value": "Integrated Grinder, Keep Warm Function" }
         ],
-        "variations": [
-            {
-                "name": "Housing Color",
-                "options": [
-                    "Stainless Steel",
-                    "Matte Black"
-                ],
-                "default": "Stainless Steel"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/elk025_front.jpg",
-            "https://example.com/images/elk025_app_screen.jpg",
-            "https://example.com/images/elk025_detail.jpg"
-        ],
+        "variations": [ { "name": "Housing Color", "options": ["Stainless Steel","Matte Black"], "default": "Stainless Steel" } ],
+        "image_url_list": ["https://placehold.co/400","https://placehold.co/400","https://placehold.co/400"],
         "meta_information": {
             "seo_title": "Smart Wi-Fi Coffee Maker | Integrated Grinder | BrewMaster",
             "meta_description": "BrewMaster Wi-Fi enabled coffee machine with grinder. Fresh coffee on your schedule, controlled by your smartphone.",
-            "keywords": [
-                "coffee maker",
-                "smart",
-                "wi-fi",
-                "grinder",
-                "kitchen appliance"
-            ]
+            "keywords": ["coffee maker","smart","wi-fi","grinder","kitchen appliance"]
         },
-        "review_and_rating": {
-            "average_rating": 4.7,
-            "total_reviews": 88,
-            "latest_review_summary": "Excellent machine, the app control is very convenient and the coffee is perfect."
-        }
+        "review_and_rating": { "average_rating": 4.7, "total_reviews": 88, "latest_review_summary": "Excellent machine, the app control is very convenient and the coffee is perfect." }
     },
     {
         "product_id": "BAB026",
         "product_name": "Organic Bamboo Baby Wipes (Pack of 6)",
         "category": "Baby & Child",
         "brand": "PureBaby",
-        "price_info": {
-            "price": 350.00,
-            "currency": "TRY",
-            "discounted_price": 300.00,
-            "discount_rate": 14
-        },
+        "price_info": { "price": 350.00, "currency": "TRY", "discounted_price": 300.00, "discount_rate": 14 },
         "description": "Eco-friendly, hypoallergenic baby wipes made from 100% organic bamboo fiber. Gentle on sensitive skin. Alcohol and fragrance-free.",
-        "stock_status": {
-            "stock_quantity": 400,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
+        "stock_status": { "stock_quantity": 400, "status": "In Stock", "delivery_time": "1-3 Business Days" },
         "features": [
-            {
-                "name": "Material",
-                "value": "100% Organic Bamboo"
-            },
-            {
-                "name": "Count per Pack",
-                "value": "72 Wipes"
-            },
-            {
-                "name": "Feature",
-                "value": "Hypoallergenic, Biodegradable"
-            }
+            { "name": "Material", "value": "100% Organic Bamboo" },
+            { "name": "Count per Pack", "value": "72 Wipes" },
+            { "name": "Feature", "value": "Hypoallergenic, Biodegradable" }
         ],
-        "variations": [
-            {
-                "name": "Scent",
-                "options": [
-                    "Unscented",
-                    "Chamomile"
-                ],
-                "default": "Unscented"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/bab026_pack_6.jpg",
-            "https://example.com/images/bab026_wipes_texture.jpg",
-            "https://example.com/images/bab026_detail.jpg"
-        ],
+        "variations": [ { "name": "Scent", "options": ["Unscented","Chamomile"], "default": "Unscented" } ],
+        "image_url_list": ["https://placehold.co/400","https://placehold.co/400","https://placehold.co/400"],
         "meta_information": {
             "seo_title": "Organic Bamboo Baby Wipes | 6-Pack | Hypoallergenic | PureBaby",
             "meta_description": "PureBaby organic bamboo baby wipes. Safe, gentle, and biodegradable for your baby's sensitive skin. Special 6-pack offer.",
-            "keywords": [
-                "baby wipes",
-                "organic",
-                "bamboo",
-                "hypoallergenic",
-                "baby care"
-            ]
+            "keywords": ["baby wipes","organic","bamboo","hypoallergenic","baby care"]
         },
-        "review_and_rating": {
-            "average_rating": 4.9,
-            "total_reviews": 120,
-            "latest_review_summary": "Very gentle and thick, the best natural wipes we have tried."
-        }
+        "review_and_rating": { "average_rating": 4.9, "total_reviews": 120, "latest_review_summary": "Very gentle and thick, the best natural wipes we have tried." }
     },
     {
         "product_id": "OFS027",
         "product_name": "Premium Leather Bound A5 Notebook",
         "category": "Office & Stationery",
         "brand": "WriteLux",
-        "price_info": {
-            "price": 275.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
+        "price_info": { "price": 275.00, "currency": "TRY", "discounted_price": null, "discount_rate": 0 },
         "description": "Elegant A5 notebook with a genuine leather cover and high-quality, acid-free paper. Perfect for journaling, note-taking, or as a gift.",
-        "stock_status": {
-            "stock_quantity": 115,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
+        "stock_status": { "stock_quantity": 115, "status": "In Stock", "delivery_time": "1-3 Business Days" },
         "features": [
-            {
-                "name": "Size",
-                "value": "A5"
-            },
-            {
-                "name": "Cover",
-                "value": "Genuine Leather"
-            },
-            {
-                "name": "Paper Type",
-                "value": "Acid-Free, 100 gsm"
-            }
+            { "name": "Size", "value": "A5" },
+            { "name": "Cover", "value": "Genuine Leather" },
+            { "name": "Paper Type", "value": "Acid-Free, 100 gsm" }
         ],
         "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Dark Brown",
-                    "Forest Green",
-                    "Ruby Red"
-                ],
-                "default": "Dark Brown"
-            },
-            {
-                "name": "Ruling",
-                "options": [
-                    "Lined",
-                    "Dotted"
-                ],
-                "default": "Lined"
-            }
+            { "name": "Color", "options": ["Dark Brown","Forest Green","Ruby Red"], "default": "Dark Brown" },
+            { "name": "Ruling", "options": ["Lined","Dotted"], "default": "Lined" }
         ],
-        "image_url_list": [
-            "https://example.com/images/ofs027_brown_open.jpg",
-            "https://example.com/images/ofs027_leather_detail.jpg",
-            "https://example.com/images/ofs027_colors.jpg"
-        ],
+        "image_url_list": ["https://placehold.co/400","https://placehold.co/400","https://placehold.co/400"],
         "meta_information": {
             "seo_title": "A5 Genuine Leather Notebook | Lined/Dotted | WriteLux",
             "meta_description": "WriteLux A5 size premium leather journal with quality paper. Ideal for professionals and writers.",
-            "keywords": [
-                "leather notebook",
-                "a5 journal",
-                "premium stationery",
-                "dotted notebook",
-                "gift"
-            ]
+            "keywords": ["leather notebook","a5 journal","premium stationery","dotted notebook","lined notebook"]
         },
-        "review_and_rating": {
-            "average_rating": 4.8,
-            "total_reviews": 60,
-            "latest_review_summary": "The leather smells great and the paper is suitable for all pens. Excellent craftsmanship."
-        }
+        "review_and_rating": { "average_rating": 4.8, "total_reviews": 60, "latest_review_summary": "Excellent leather quality and thick pages. Writing feels very smooth." }
     },
+
+    
     {
         "product_id": "HML028",
         "product_name": "Vacuum Sealer Machine for Food Storage",
@@ -1797,9 +1283,9 @@
             }
         ],
         "image_url_list": [
-            "https://example.com/images/hml028_machine.jpg",
-            "https://example.com/images/hml028_sealing_food.jpg",
-            "https://example.com/images/hml028_kit.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "Automatic Vacuum Sealer Machine | Food Preservation | FreshSeal",
@@ -1873,9 +1359,9 @@
             }
         ],
         "image_url_list": [
-            "https://example.com/images/gym029_side.jpg",
-            "https://example.com/images/gym029_boost_detail.jpg",
-            "https://example.com/images/gym029_running.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "Boost Midsole Running Shoes | Unisex | RunFast 20% Off",
@@ -1936,9 +1422,9 @@
             }
         ],
         "image_url_list": [
-            "https://example.com/images/bab030_monitor_baby.jpg",
-            "https://example.com/images/bab030_screen_ui.jpg",
-            "https://example.com/images/bab030_camera.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "Digital Baby Video Monitor 5 Inch | Night Vision | SafeView",
@@ -1999,9 +1485,9 @@
             }
         ],
         "image_url_list": [
-            "https://example.com/images/hby031_drone_flight.jpg",
-            "https://example.com/images/hby031_goggles_controller.jpg",
-            "https://example.com/images/hby031_close_up.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "High-Speed RC Racing Drone with FPV Goggles | AeroFly GPS",
@@ -2062,9 +1548,9 @@
             }
         ],
         "image_url_list": [
-            "https://example.com/images/kch032_front.jpg",
-            "https://example.com/images/kch032_food.jpg",
-            "https://example.com/images/kch032_panel.jpg"
+            "https://placehold.co/400",
+            "https://placehold.co/400",
+            "https://placehold.co/400"
         ],
         "meta_information": {
             "seo_title": "5.5 Liter Digital Air Fryer | Oil-Free Cooking | AirCrisp",
@@ -2082,664 +1568,5 @@
             "total_reviews": 210,
             "latest_review_summary": "A real life-saver in the kitchen. Everything turns out crispy and delicious."
         }
-    },
-    {
-        "product_id": "HML033",
-        "product_name": "Ergonomic Mesh Office Chair with Lumbar Support",
-        "category": "Home & Living / Office",
-        "brand": "ErgoMax",
-        "price_info": {
-            "price": 2550.00,
-            "currency": "TRY",
-            "discounted_price": 2200.00,
-            "discount_rate": 14
-        },
-        "description": "Ergonomic high-back office chair with adjustable lumbar support, headrest, and breathable mesh material. Ideal for long hours of work.",
-        "stock_status": {
-            "stock_quantity": 65,
-            "status": "In Stock",
-            "delivery_time": "4-6 Business Days"
-        },
-        "features": [
-            {
-                "name": "Material",
-                "value": "Breathable Mesh Fabric"
-            },
-            {
-                "name": "Feature",
-                "value": "Adjustable Lumbar Support, Headrest"
-            },
-            {
-                "name": "Mobility",
-                "value": "360° Swivel, Smooth Casters"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Base Material",
-                "options": [
-                    "Nylon",
-                    "Aluminum"
-                ],
-                "default": "Nylon"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/hml033_full.jpg",
-            "https://example.com/images/hml033_lumbar_detail.jpg",
-            "https://example.com/images/hml033_in_office.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Ergonomic Mesh Office Chair | Lumbar Support | ErgoMax",
-            "meta_description": "Work comfortably for hours with the ErgoMax ergonomic mesh office chair. Breathable, adjustable support for a healthy posture.",
-            "keywords": [
-                "office chair",
-                "ergonomic chair",
-                "mesh chair",
-                "lumbar support",
-                "home office"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.7,
-            "total_reviews": 110,
-            "latest_review_summary": "A very comfortable chair, my back pain has significantly decreased."
-        }
-    },
-    {
-        "product_id": "SPG034",
-        "product_name": "Premium Road Bike Helmet with MIPS Technology",
-        "category": "Sports & Outdoor",
-        "brand": "SafeRide",
-        "price_info": {
-            "price": 950.00,
-            "currency": "TRY",
-            "discounted_price": 799.00,
-            "discount_rate": 16
-        },
-        "description": "Lightweight and aerodynamic road bike helmet with MIPS (Multi-directional Impact Protection System) for superior safety. Excellent ventilation and adjustable fit system.",
-        "stock_status": {
-            "stock_quantity": 85,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
-        "features": [
-            {
-                "name": "Safety",
-                "value": "MIPS Technology"
-            },
-            {
-                "name": "Ventilation",
-                "value": "20 Vents"
-            },
-            {
-                "name": "Weight",
-                "value": "250g (Size M)"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Gloss Black",
-                    "Matte White",
-                    "High-Viz Yellow"
-                ],
-                "default": "Gloss Black"
-            },
-            {
-                "name": "Size",
-                "options": [
-                    "S",
-                    "M",
-                    "L"
-                ],
-                "default": "M"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/spg034_black_side.jpg",
-            "https://example.com/images/spg034_mips_detail.jpg",
-            "https://example.com/images/spg034_on_rider.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "MIPS Road Bike Helmet | Aerodynamic Design | SafeRide",
-            "meta_description": "Protect your head with the SafeRide MIPS road bike helmet. Lightweight, aerodynamic, and maximum protection for cyclists.",
-            "keywords": [
-                "bike helmet",
-                "mips",
-                "road cycling",
-                "safety gear",
-                "aerodynamic"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.9,
-            "total_reviews": 70,
-            "latest_review_summary": "Extremely light and comfortable. Knowing it has MIPS gives me confidence."
-        }
-    },
-    {
-        "product_id": "HBY035",
-        "product_name": "Advanced Astronomy Telescope (Reflector)",
-        "category": "Hobby & Entertainment",
-        "brand": "StarGazer",
-        "price_info": {
-            "price": 5200.00,
-            "currency": "TRY",
-            "discounted_price": 4900.00,
-            "discount_rate": 6
-        },
-        "description": "High-performance reflector telescope with a 130mm aperture and equatorial mount. Ideal for observing planets, nebulae, and galaxies. Includes a smartphone adapter.",
-        "stock_status": {
-            "stock_quantity": 18,
-            "status": "Very Limited Stock",
-            "delivery_time": "5-8 Business Days (Special Shipment)"
-        },
-        "features": [
-            {
-                "name": "Type",
-                "value": "Reflector (Newtonian)"
-            },
-            {
-                "name": "Aperture",
-                "value": "130 mm"
-            },
-            {
-                "name": "Mount",
-                "value": "Equatorial (EQ2)"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Accessory Kit",
-                "options": [
-                    "Basic Eyepiece Kit",
-                    "Deluxe Eyepiece Kit"
-                ],
-                "default": "Basic Eyepiece Kit"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/hby035_telescope_full.jpg",
-            "https://example.com/images/hby035_moon_view.jpg",
-            "https://example.com/images/hby035_mount_detail.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "130mm Reflector Astronomy Telescope | Equatorial Mount | StarGazer",
-            "meta_description": "Begin your journey into deep space with the StarGazer 130mm telescope. High-quality views of celestial objects for amateur astronomers.",
-            "keywords": [
-                "telescope",
-                "astronomy",
-                "reflector",
-                "equatorial mount",
-                "deep space",
-                "hobby"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.9,
-            "total_reviews": 15,
-            "latest_review_summary": "An excellent starter telescope. The clarity of the moon and Jupiter is amazing."
-        }
-    },
-    {
-        "product_id": "OFS036",
-        "product_name": "Premium Gel Pen Set (12 Colors, 0.5mm)",
-        "category": "Office & Stationery",
-        "brand": "SmoothFlow",
-        "price_info": {
-            "price": 120.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
-        "description": "Set of 12 vibrant gel pens with a fine 0.5mm tip. Quick-drying, smudge-free ink, ideal for colorful notes, drawing, and scrapbooking.",
-        "stock_status": {
-            "stock_quantity": 300,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
-        "features": [
-            {
-                "name": "Tip Size",
-                "value": "0.5 mm"
-            },
-            {
-                "name": "Colors",
-                "value": "12 Unique Colors"
-            },
-            {
-                "name": "Ink Type",
-                "value": "Quick-Drying Gel Ink"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Case",
-                "options": [
-                    "Plastic Case",
-                    "Canvas Pouch"
-                ],
-                "default": "Plastic Case"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/ofs036_set.jpg",
-            "https://example.com/images/ofs036_writing_sample.jpg",
-            "https://example.com/images/ofs036_close.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "12 Color Gel Pen Set 0.5mm | Quick-Drying | SmoothFlow",
-            "meta_description": "SmoothFlow premium gel pens for effortless writing and vibrant colors. Perfect for art projects and detailed note-taking.",
-            "keywords": [
-                "gel pens",
-                "color set",
-                "0.5mm pen",
-                "stationery",
-                "art supplies"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.5,
-            "total_reviews": 180,
-            "latest_review_summary": "Writes very smoothly and the colors are really vivid. No smudging at all."
-        }
-    },
-    {
-        "product_id": "GYM037",
-        "product_name": "Waterproof Men's Rain Jacket with Hood",
-        "category": "Apparel & Outdoor",
-        "brand": "WeatherGuard",
-        "price_info": {
-            "price": 890.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
-        "description": "Lightweight and fully waterproof men's rain jacket with taped seams and an adjustable hood. Easy to pack into its own pocket. Ideal for hiking and city use.",
-        "stock_status": {
-            "stock_quantity": 130,
-            "status": "In Stock",
-            "delivery_time": "2-4 Business Days"
-        },
-        "features": [
-            {
-                "name": "Water Resistance",
-                "value": "10,000 mm"
-            },
-            {
-                "name": "Feature",
-                "value": "Packable, Taped Seams"
-            },
-            {
-                "name": "Fit",
-                "value": "Regular"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Navy Blue",
-                    "Charcoal Grey",
-                    "Bright Red"
-                ],
-                "default": "Navy Blue"
-            },
-            {
-                "name": "Size",
-                "options": [
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                ],
-                "default": "L"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/gym037_model_rain.jpg",
-            "https://example.com/images/gym037_packed_bag.jpg",
-            "https://example.com/images/gym037_zip_detail.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Men's Waterproof Rain Jacket | Packable Hood | WeatherGuard",
-            "meta_description": "Stay dry with the WeatherGuard waterproof and breathable rain jacket. Lightweight and perfect for unexpected weather.",
-            "keywords": [
-                "rain jacket",
-                "waterproof",
-                "men's outerwear",
-                "hiking gear",
-                "packable"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.7,
-            "total_reviews": 90,
-            "latest_review_summary": "Kept me completely dry in heavy rain. Very light and easy to carry."
-        }
-    },
-    {
-        "product_id": "ELK038",
-        "product_name": "Wireless Mechanical Keyboard (RGB)",
-        "category": "Electronics",
-        "brand": "KeyPro",
-        "price_info": {
-            "price": 1750.00,
-            "currency": "TRY",
-            "discounted_price": 1500.00,
-            "discount_rate": 14
-        },
-        "description": "Compact (60%) wireless mechanical keyboard with customizable RGB backlighting. Tactile brown switches for a comfortable typing experience. Bluetooth and 2.4 GHz connectivity.",
-        "stock_status": {
-            "stock_quantity": 70,
-            "status": "In Stock",
-            "delivery_time": "2-4 Business Days"
-        },
-        "features": [
-            {
-                "name": "Layout",
-                "value": "60% Compact"
-            },
-            {
-                "name": "Switches",
-                "value": "Tactile Brown Mechanical"
-            },
-            {
-                "name": "Connectivity",
-                "value": "Bluetooth 5.0 / 2.4 GHz"
-            },
-            {
-                "name": "Lighting",
-                "value": "Per-Key RGB"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Switch Type",
-                "options": [
-                    "Brown (Tactile)",
-                    "Red (Linear)"
-                ],
-                "default": "Brown (Tactile)"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/elk038_keyboard_rgb.jpg",
-            "https://example.com/images/elk038_close_switch.jpg",
-            "https://example.com/images/elk038_desk_setup.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Wireless 60% Mechanical Keyboard | RGB Brown Switches | KeyPro",
-            "meta_description": "Upgrade your desk setup with KeyPro's compact 60% wireless mechanical keyboard. Tactile feel and vibrant RGB lighting for work and gaming.",
-            "keywords": [
-                "mechanical keyboard",
-                "wireless keyboard",
-                "60% keyboard",
-                "rgb",
-                "brown switch"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.6,
-            "total_reviews": 85,
-            "latest_review_summary": "Very solid build quality and the brown switches feel fantastic for typing."
-        }
-    },
-    {
-        "product_id": "BAB039",
-        "product_name": "Silicone Baby Feeding Set (Suction Plate & Spoon)",
-        "category": "Baby & Child",
-        "brand": "GripEat",
-        "price_info": {
-            "price": 230.00,
-            "currency": "TRY",
-            "discounted_price": null,
-            "discount_rate": 0
-        },
-        "description": "BPA-free silicone baby feeding set. Includes a strong suction plate to prevent spills and an ergonomic soft spoon. Microwave and dishwasher safe.",
-        "stock_status": {
-            "stock_quantity": 210,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
-        "features": [
-            {
-                "name": "Material",
-                "value": "Food-Grade Silicone (BPA Free)"
-            },
-            {
-                "name": "Feature",
-                "value": "Strong Suction Base, Dishwasher Safe"
-            },
-            {
-                "name": "Included",
-                "value": "Divided Plate, Soft Spoon"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Mint Green",
-                    "Dusty Rose",
-                    "Sky Blue"
-                ],
-                "default": "Mint Green"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/bab039_set_table.jpg",
-            "https://example.com/images/bab039_suction_test.jpg",
-            "https://example.com/images/bab039_spoon.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Silicone Baby Suction Plate and Spoon Set | GripEat",
-            "meta_description": "Make feeding time less messy with the GripEat silicone suction plate. Safe, BPA-free material and easy to clean.",
-            "keywords": [
-                "baby feeding set",
-                "silicone plate",
-                "suction plate",
-                "baby weaning",
-                "bpa free"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.7,
-            "total_reviews": 145,
-            "latest_review_summary": "The suction is very strong, my baby can't lift it. Great quality."
-        }
-    },
-    {
-        "product_id": "KCH040",
-        "product_name": "Digital Kitchen Scale with Tare Function",
-        "category": "Kitchenware",
-        "brand": "PrecisionCook",
-        "price_info": {
-            "price": 199.00,
-            "currency": "TRY",
-            "discounted_price": 169.00,
-            "discount_rate": 15
-        },
-        "description": "High-accuracy digital kitchen scale (up to 5 kg) with a large LCD display and convenient Tare (zero) function. Measures in grams, ounces, pounds, and milliliters.",
-        "stock_status": {
-            "stock_quantity": 230,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
-        "features": [
-            {
-                "name": "Max Capacity",
-                "value": "5 kg / 11 lbs"
-            },
-            {
-                "name": "Accuracy",
-                "value": "1g / 0.1 oz"
-            },
-            {
-                "name": "Feature",
-                "value": "Tare Function, Unit Conversion"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Platform",
-                "options": [
-                    "Glass",
-                    "Stainless Steel"
-                ],
-                "default": "Stainless Steel"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/kch040_scale.jpg",
-            "https://example.com/images/kch040_display.jpg",
-            "https://example.com/images/kch040_in_use.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Digital Kitchen Scale 5kg | Tare Function | PrecisionCook",
-            "meta_description": "Perfect your baking and cooking with the PrecisionCook digital kitchen scale. High accuracy and easy-to-use Tare function.",
-            "keywords": [
-                "kitchen scale",
-                "digital scale",
-                "tare function",
-                "baking tools",
-                "precision measurement"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.5,
-            "total_reviews": 190,
-            "latest_review_summary": "Very sensitive and reliable. I love the sleek stainless steel platform."
-        }
-    },
-    {
-        "product_id": "ELK041",
-        "product_name": "Portable Bluetooth Speaker with Deep Bass",
-        "category": "Electronics",
-        "brand": "BassBoom",
-        "price_info": {
-            "price": 1350.00,
-            "currency": "TRY",
-            "discounted_price": 1080.00,
-            "discount_rate": 20
-        },
-        "description": "Powerful portable Bluetooth speaker with enhanced deep bass and a 20-hour long battery life. IPX7 waterproof rating, perfect for outdoor use.",
-        "stock_status": {
-            "stock_quantity": 180,
-            "status": "In Stock",
-            "delivery_time": "1-3 Business Days"
-        },
-        "features": [
-            {
-                "name": "Waterproofing",
-                "value": "IPX7"
-            },
-            {
-                "name": "Battery Life",
-                "value": "20 Hours"
-            },
-            {
-                "name": "Sound",
-                "value": "Extra Deep Bass, Dual Passive Radiators"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Color",
-                "options": [
-                    "Black",
-                    "Camo",
-                    "Red"
-                ],
-                "default": "Black"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/elk041_front.jpg",
-            "https://example.com/images/elk041_by_pool.jpg",
-            "https://example.com/images/elk041_buttons.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "Portable Bluetooth Speaker | IPX7 Waterproof | BassBoom 20H Battery",
-            "meta_description": "Take the party anywhere with the BassBoom portable speaker. IPX7 waterproof, powerful sound, and 20 hours of playtime.",
-            "keywords": [
-                "bluetooth speaker",
-                "portable speaker",
-                "waterproof",
-                "deep bass",
-                "outdoor audio"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.7,
-            "total_reviews": 250,
-            "latest_review_summary": "The bass is incredibly deep for its size, and it truly is waterproof."
-        }
-    },
-    {
-        "product_id": "HML042",
-        "product_name": "Premium Scented Soy Wax Candle Set (Set of 3)",
-        "category": "Home & Living",
-        "brand": "Scentaura",
-        "price_info": {
-            "price": 450.00,
-            "currency": "TRY",
-            "discounted_price": 380.00,
-            "discount_rate": 16
-        },
-        "description": "Set of 3 natural soy wax candles with premium essential oil scents. Includes Lavender, Vanilla, and Sandalwood. Long burning time and clean scent.",
-        "stock_status": {
-            "stock_quantity": 150,
-            "status": "In Stock",
-            "delivery_time": "2-4 Business Days"
-        },
-        "features": [
-            {
-                "name": "Wax",
-                "value": "100% Natural Soy Wax"
-            },
-            {
-                "name": "Scents",
-                "value": "Lavender, Vanilla, Sandalwood"
-            },
-            {
-                "name": "Burn Time",
-                "value": "Up to 30 hours each"
-            }
-        ],
-        "variations": [
-            {
-                "name": "Jar Color",
-                "options": [
-                    "Matte Black",
-                    "Clear Glass"
-                ],
-                "default": "Matte Black"
-            }
-        ],
-        "image_url_list": [
-            "https://example.com/images/hml042_set_lit.jpg",
-            "https://example.com/images/hml042_jars.jpg",
-            "https://example.com/images/hml042_scent_detail.jpg"
-        ],
-        "meta_information": {
-            "seo_title": "3-Pack Scented Soy Wax Candle Set | Lavender, Vanilla, Sandalwood",
-            "meta_description": "Create a calming atmosphere with Scentaura's natural soy wax candle set. Clean burn and long-lasting premium essential oil scents.",
-            "keywords": [
-                "soy candle",
-                "scented candle",
-                "candle set",
-                "home fragrance",
-                "essential oil"
-            ]
-        },
-        "review_and_rating": {
-            "average_rating": 4.9,
-            "total_reviews": 80,
-            "latest_review_summary": "Beautifully packaged and the scents are natural and not overpowering. Highly recommend."
-        }
     }
-    
 ]
